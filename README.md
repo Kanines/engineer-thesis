@@ -1,2 +1,2 @@
 # engineer-thesis
-LAS files library and terrain type classifier tool
+LAS files library and terrain type classifier and visualisation tool
